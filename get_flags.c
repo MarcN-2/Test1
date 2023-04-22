@@ -32,3 +32,7 @@ int get_flags(const char *format, int *i)
 
 	return (flags);
 }
+
+/* time to delete some unnecessary facts on slides.
+ * Do it with more precision.
+ */
